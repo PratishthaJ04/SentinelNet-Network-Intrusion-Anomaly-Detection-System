@@ -1,0 +1,2 @@
+# SentinelNet-Network-Intrusion-Anomaly-Detection-System
+SentinelNet: Network Intrusion &amp; Anomaly Detection System is an unsupervised ML framework using Isolation Forest to detect DDoS and probing attacks via 41 network features. This project bridges Infrastructure Monitoring (Zabbix/Grafana) with Cybersecurity, extending my CSIR-NPL research on NTP anomaly detection to real-time threat defense.
